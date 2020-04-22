@@ -10,12 +10,14 @@
 
   This was created to showcase a portfolio 
   
+## How It Works
+  
+  * Click on Deployed Github Link provided below
+  * Start on the About page and click  on Portfolio  which will direct you to a gallery of work 
+  * Click on Contact to send you to Contact information
 
-Getting Started
--Start on the About page and click  on Portfolio  which will direct you to a gallery of work 
--Click on Contact to send you Contact information
+## Github Repo Link
 
-Github Repo Link
 https://github.com/Mstarr85/Mstarr85.github.io
 
 Deployed Github Link
