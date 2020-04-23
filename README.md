@@ -4,16 +4,26 @@
 
 <img width="1440" alt="Screen Shot 2020-04-21 at 2 27 19 PM" src="https://user-images.githubusercontent.com/53281244/79900554-6512dc00-83dc-11ea-950c-6f7ddce0c083.png">
 
-# Portfolio
+# Mstarr85.github.io
 
 ## Description
 
-  This was created to showcase a portfolio 
+  This was created to showcase a portfolio that will give the user a snapshot of my work as a Software Developer
+  
+## Installation Instructions 
+
+  * Clone Repo to local machine
+  
+  * Open HTML file with default browser
+  
+                or
+                
+  * Click on Deployed Github Link below
   
 ## How It Works
   
-  * Click on Deployed Github Link provided below
   * Start on the About page and click  on Portfolio  which will direct you to a gallery of work 
+  
   * Click on Contact to send you to Contact information
 
 ## Github Repo Link
